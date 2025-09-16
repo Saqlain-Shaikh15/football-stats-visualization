@@ -51,4 +51,4 @@ This violin plot shows the **distribution of attendance across different countri
 ![Attendance Distribution Country](plots/Violin_Attendance_distribution.png)
 
 📂 Output Folder  
-All generated plots are saved inside the `plots/` folder, with descriptive filenames for easy reference.  
+All generated plots are saved inside the `plots/` folder, with descriptive filenames for easy reference.  "# football-stats-visualization" 
